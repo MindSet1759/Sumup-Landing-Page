@@ -1,0 +1,40 @@
+@media (max-width: 768px) {
+    .nav-links{
+        display: none;
+    }
+    button{
+        display: block;
+    }
+
+    .nav-links a{
+        font-size: 1rem;
+    }
+
+    hr{
+        position: relative;
+        top: -130px;
+        
+    }
+
+    .navbar .logo{
+        font-size: 1.1rem;
+        float: left;
+        position: relative;
+        left: 15px;
+    }
+
+    .smart h2{
+        text-align: justify;
+        text-align-last: center;
+        font-size: 70px;
+        line-height: 0.8;
+        
+    }
+    .smart p{
+        text-align: justify;
+        text-align-last: center;
+        font-size: 13px;
+        
+        
+    }
+}
